@@ -3,13 +3,13 @@ Grupo 9, Redes de sensores.
 
 Integrantes:
 
-Ariel Bravo
+- Ariel Bravo
 
-Felipe Rodriguez
+- Felipe Rodriguez
 
-Sergio Rojas
+- Sergio Rojas
 
-Jorge Rojas
+- Jorge Rojas
 
-Gianfranco Rolla
+- Gianfranco Rolla
 
